@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?AryanGod-1=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AryanGod-1)](https://git.io/streak-stats)
 <!--
 **AryanGod-1/AryanGod-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
